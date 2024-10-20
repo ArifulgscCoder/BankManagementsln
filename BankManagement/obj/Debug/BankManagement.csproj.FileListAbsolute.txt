@@ -1,0 +1,7 @@
+D:\Project\BankManagementsln\BankManagement\bin\Debug\BankManagement.exe.config
+D:\Project\BankManagementsln\BankManagement\bin\Debug\BankManagement.exe
+D:\Project\BankManagementsln\BankManagement\bin\Debug\BankManagement.pdb
+D:\Project\BankManagementsln\BankManagement\obj\Debug\BankManagement.csproj.AssemblyReference.cache
+D:\Project\BankManagementsln\BankManagement\obj\Debug\BankManagement.csproj.CoreCompileInputs.cache
+D:\Project\BankManagementsln\BankManagement\obj\Debug\BankManagement.exe
+D:\Project\BankManagementsln\BankManagement\obj\Debug\BankManagement.pdb

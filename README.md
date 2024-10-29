@@ -1,9 +1,36 @@
-Description: An In-Memory CRUD application for Bank Management in C# is a simplified project that simulates managing bank accounts without using a persistent database. It involves creating classes to represent bank entities (e.g., BankAccount, Customer), and implementing CRUD operations (Create, Read, Update, Delete) using data structures like lists or dictionaries.
+# In-Memory CRUD Application for Bank Management
 
-Key functionalities include:
+Welcome to the In-Memory CRUD Application for Bank Management! This project simulates managing bank accounts without using a persistent database. It is designed to help you learn about object-oriented programming, data manipulation, and basic CRUD operations in C#.
 
-Adding new customers/accounts: creating and storing customer data in memory.
-Retrieving customer/account information: displaying data on request.
-Updating records: modifying customer/account details.
-Deleting accounts: removing data from the in-memory store.
-This project is ideal for learning object-oriented programming, data manipulation, and basic CRUD operations in C#.
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+- [Key Functionalities](#key-functionalities)
+- [Code Structure](#code-structure)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+
+- Simulates a bank management system using in-memory data storage.
+- Implements basic CRUD operations for managing bank accounts and customers.
+- Provides a user-friendly console interface for interaction.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+### Prerequisites
+
+- .NET SDK (version 5.0 or later)
+- A code editor (e.g., Visual Studio, Visual Studio Code)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/bank-management-crud.git
